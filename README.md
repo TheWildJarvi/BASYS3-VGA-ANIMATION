@@ -1,7 +1,7 @@
 # BASYS3-VGA-ANIMATION
 Basys3 VGA Animation project
 
-main.py generates ROM files from .jpg images that can be laoded into the ROM component in the simlator 'Digital'
+main.py generates ROM files from .jpg images that can be loaded into the ROM component in the simlator 'Digital'
 
 empty-heart , half-heart, and full-heart are the 3 images to be loaded to make an animation
 
